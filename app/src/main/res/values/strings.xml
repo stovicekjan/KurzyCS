@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KurzyCS</string>
+    <string name="connecting_msg">Připojuji...</string>
+    <string name="connection_error_msg">Spojení selhalo</string>
+    <string name="country_header">Země</string>
+    <string name="currency_header">Měna</string>
+    <string name="buy_header">Nákup</string>
+    <string name="sell_header">Prodej</string>
+    <string name="imageview_desc">Logo ČS</string>
+    <string name="validity_date">Platný od</string>
+    <string name="title_label">Kurzovní lístek</string>
+</resources>
